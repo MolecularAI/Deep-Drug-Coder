@@ -1,3 +1,5 @@
+**Please note: this repository is no longer being maintained.*
+
 # DeepDrugCoder (DDC): Heteroencoder for molecular encoding and de novo generation
 [![Python 3.6](https://img.shields.io/badge/python-3.6-yellow.svg)](https://www.python.org/downloads/release/python-367/)
 [![License: GPL v3](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/189198308.svg)](https://zenodo.org/badge/latestdoi/189198308)
